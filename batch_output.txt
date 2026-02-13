@@ -1,0 +1,1359 @@
+Graph 1  (seed=2449819925)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 1
+  GOAL : 1
+  HEALTH: 10
+  MONSTER: 23
+  TREASURE: 8
+  KEY: 8
+  BOSS: 2
+  PUZZLE: 4
+  REST: 7
+
++---------------------------------------------------------------------+
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|           H R                                                       |
+|                                                                     |
+|         H-H-R-H-H-K                                                 |
+|                 |                                                   |
+|   H-M-K-M H R B-R                                                   |
+|     |           |                                                   |
+|     M-M-H-M-K-P M-H                                                 |
+|           |   |   |                                                 |
+|       M-R-H M-M-M-R-M                                               |
+|       |     |   |                                                   |
+|     B B B M-M T T T                                                 |
+|       |   |     |                                                   |
+|     M M M M     S                                                   |
+|       |         |                                                   |
+|       T-T     H-M                                                   |
+|         |       |                                                   |
+|     M-P-P       K-T-R                                               |
+|     |           |   |                                               |
+|     M-T       R R R R-T                                             |
+|       |             |                                               |
+| T-K   K             H                                               |
+| | |   |                                                             |
+| M P-M-K                                                             |
+| |                                                                   |
+| T                                                                   |
+| |                                                                   |
+| M                                                                   |
+| |                                                                   |
+| M-M-K                                                               |
+|     |                                                               |
+|     G                                                               |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 2  (seed=2449819926)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 0
+  GOAL : 1
+  HEALTH: 0
+  MONSTER: 0
+  TREASURE: 0
+  KEY: 0
+  BOSS: 0
+  PUZZLE: 0
+  REST: 0
+
++---------------------------------------------------------------------+
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|               G G G                                                 |
+|                                                                     |
+|               G G G                                                 |
+|                                                                     |
+|               G G G                                                 |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 3  (seed=2449819927)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 1
+  GOAL : 1
+  HEALTH: 7
+  MONSTER: 20
+  TREASURE: 10
+  KEY: 8
+  BOSS: 4
+  PUZZLE: 8
+  REST: 5
+
++---------------------------------------------------------------------+
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                 H-T                                                 |
+|                 | |                                                 |
+|                 K B                                                 |
+|                   |                                                 |
+|               K R-T-P-M                                             |
+|               |     |                                               |
+|           M-M-M     H                                               |
+|             | |     |                                               |
+|             M M-K T-H                                               |
+|                 |   |                                               |
+|           K-R-M T   K                                               |
+|               | |   |                                               |
+|         M-K-P-R-H P M                                               |
+|             |   | | |                                               |
+|         T-H-B-M S-M-M                                               |
+|         | |   |                                                     |
+|         T T   M                                                     |
+|         |                                                           |
+| T-M-M-R-M                                                           |
+| |                                                                   |
+| K-B-T                                                               |
+|     |                                                               |
+| P-H R                                                               |
+| | | |                                                               |
+| P P-H                                                               |
+| |                                                                   |
+| K B-M                                                               |
+| | | |                                                               |
+| P M G                                                               |
+| | |                                                                 |
+| T M                                                                 |
+| | |                                                                 |
+| M-P                                                                 |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 4  (seed=2449819928)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 0
+  GOAL : 1
+  HEALTH: 0
+  MONSTER: 0
+  TREASURE: 0
+  KEY: 0
+  BOSS: 0
+  PUZZLE: 0
+  REST: 0
+
++---------------------------------------------------------------------+
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|               G G G                                                 |
+|                                                                     |
+|               G G G                                                 |
+|                                                                     |
+|               G G G                                                 |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 5  (seed=2449819929)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 1
+  GOAL : 1
+  HEALTH: 8
+  MONSTER: 21
+  TREASURE: 11
+  KEY: 5
+  BOSS: 2
+  PUZZLE: 11
+  REST: 4
+
++---------------------------------------------------------------------+
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|   M-H-P                                                             |
+|   |   |                                                             |
+|   R R R R                                                           |
+|   |   |                                                             |
+|   T-H M   T-T-M S                                                   |
+|     | |   |   |                                                     |
+|   T-R M-M B-P P-S-T                                                 |
+|   |     |     |   |                                                 |
+|   K T-K M-M-P H S P-K                                               |
+|   | | |     | |   |                                                 |
+|   M-P M-M   M H-P H                                                 |
+|         |   |   | |                                                 |
+|       G G G R-P-T M M                                               |
+|               | | | |                                               |
+|           M-P-T K M-K                                               |
+|           |     |   |                                               |
+|           H   P-M M-M                                               |
+|           |       | |                                               |
+|           M     M-T T                                               |
+|                   |                                                 |
+|                   T-P                                               |
+|                   |                                                 |
+|                   M-H                                               |
+|                   |                                                 |
+|                 B-H                                                 |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 6  (seed=2449819930)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 1
+  GOAL : 1
+  HEALTH: 9
+  MONSTER: 24
+  TREASURE: 11
+  KEY: 5
+  BOSS: 0
+  PUZZLE: 12
+  REST: 1
+
++---------------------------------------------------------------------+
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|             G M-M                                                   |
+|             | | |                                                   |
+|             H-T M-M-H-H                                             |
+|                       |                                             |
+|                     H-M                                             |
+|                     |                                               |
+|                     K                                               |
+|                     |                                               |
+|                     T-P-T       H H H                               |
+|                       | |         |                                 |
+|                     H-K P-M M-K-P-M-H                               |
+|                     |     | |                                       |
+|                     M-T-P T T-M                                     |
+|                           | |                                       |
+|                   P P M-H-M T-M                                     |
+|                     | |     |                                       |
+|               R S-P-M M K-H-M-P                                     |
+|                 |   | | |                                           |
+|             M-R-P P P-M-M                                           |
+|                 |   |                                               |
+|               R M K-T                                               |
+|                   |                                                 |
+|               T T M                                                 |
+|               |   |                                                 |
+|               P-T-M                                                 |
+|               |   |                                                 |
+|             P-T T M                                                 |
+|               |                                                     |
+|             P-M                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 7  (seed=2449819931)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 1
+  GOAL : 1
+  HEALTH: 12
+  MONSTER: 22
+  TREASURE: 7
+  KEY: 7
+  BOSS: 2
+  PUZZLE: 9
+  REST: 3
+
++---------------------------------------------------------------------+
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                   M-M                                               |
+|                   | |                                               |
+|               T-B-K M                                               |
+|               |     |                                               |
+|               P   H-M                                               |
+|               |   |                                                 |
+|             M-H H H H                                               |
+|             |     |                                                 |
+|             P     K                                                 |
+|             |     |                                                 |
+|             H-P-M B-M                                               |
+|                 |   |                                               |
+|               M-P M-M                                               |
+|               |   |                                                 |
+|           R-M-K T T T                                               |
+|           |       |                                                 |
+|           G K-P-S H   M   H                                         |
+|               | | |   |   |                                         |
+|           R-K-K M-H-P-M-T-M H                                       |
+|                 |         |                                         |
+|             T-H-M-K       H-H                                       |
+|             |             |                                         |
+|           P-H-H           M H                                       |
+|               |                                                     |
+|           M-T-R                                                     |
+|             |                                                       |
+|         M-P-M-T                                                     |
+|         |                                                           |
+|         M-T-M-P                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 8  (seed=2449819932)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 1
+  GOAL : 1
+  HEALTH: 10
+  MONSTER: 23
+  TREASURE: 11
+  KEY: 6
+  BOSS: 2
+  PUZZLE: 8
+  REST: 2
+
++---------------------------------------------------------------------+
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                       K-H                                           |
+|                       |                                             |
+|                     T-M                                             |
+|                       |                                             |
+|                   M T-M                                             |
+|                   | |                                               |
+|                   P-M-M                                             |
+|                   |                                                 |
+|               K   T K M                                             |
+|                   | | |                                             |
+|               K-K B M-M-P                                           |
+|                 | |     |                                           |
+|               K M H-H-H-H                                           |
+|                 | | |   |                                           |
+|                 T B M-T R                                           |
+|                 | | |                                               |
+|                 S-M K-M-M                                           |
+|                       | |                                           |
+|           M-P-H-M-M-R-T M-M                                         |
+|                   |                                                 |
+|                 M M M P-H                                           |
+|                   |   | |                                           |
+|                   T-T-H M-M                                         |
+|                           |                                         |
+|                       K-T-M                                         |
+|                       |                                             |
+|                     H H H                                           |
+|                       |                                             |
+|                       T   T P-P-H-G                                 |
+|                       |     |                                       |
+|                       P-M-T-P                                       |
+|                                                                     |
+|                           T                                         |
+|                                                                     |
+|                                                                     |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 9  (seed=2449819933)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 1
+  GOAL : 1
+  HEALTH: 8
+  MONSTER: 23
+  TREASURE: 8
+  KEY: 6
+  BOSS: 5
+  PUZZLE: 6
+  REST: 6
+
++---------------------------------------------------------------------+
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|               T                                                     |
+|               |                                                     |
+|             T T T                                                   |
+|               |                                                     |
+|               R               K M                                   |
+|               |                                                     |
+|           H   P   M-R-M   M-K-K-M-R                                 |
+|           |   |   |   |   |       |                                 |
+|         K-H-P-H-M R-H P H-K   K M B                                 |
+|         |           | | |         |                                 |
+|         M-M K-H M-M-M M-R         M                                 |
+|         |   | | | |               |                                 |
+|         M-M-M K-T P-M-M           M                                 |
+|             |   |                 |                                 |
+|             M S S S H           T T T                               |
+|                 |   |             |                                 |
+|               M-T-R-B B M         T-M                               |
+|                     | |             |                               |
+|                     T-P-M-B         M-B                             |
+|                                       |                             |
+|                         M           G T                             |
+|                                     | |                             |
+|                                     H-P                             |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 10  (seed=2449819934)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 0
+  GOAL : 1
+  HEALTH: 0
+  MONSTER: 0
+  TREASURE: 0
+  KEY: 0
+  BOSS: 0
+  PUZZLE: 0
+  REST: 0
+
++---------------------------------------------------------------------+
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|               G G G                                                 |
+|                                                                     |
+|               G G G                                                 |
+|                                                                     |
+|               G G G                                                 |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 11  (seed=2449819935)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 1
+  GOAL : 1
+  HEALTH: 6
+  MONSTER: 23
+  TREASURE: 11
+  KEY: 9
+  BOSS: 2
+  PUZZLE: 8
+  REST: 3
+
++---------------------------------------------------------------------+
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                   M                                                 |
+|                   |                                                 |
+|                   M-M                                               |
+|                   | |                                               |
+|             M-P-P P M-T                                             |
+|             |   |     |                                             |
+|         T   K   K M H-M                                             |
+|         |   |   | | |                                               |
+|         R-T K   K T T                                               |
+|           | |   | | |                                               |
+|           M-M   P B-H                                               |
+|                 | | |                                               |
+|             H-K M-T R-P-M                                           |
+|             | | |   |                                               |
+|           M-M T-K H-H B                                             |
+|                 | |                                                 |
+|           M-T-K S H-P-B-K                                           |
+|           |   |   |     |                                           |
+|           M-T M-G R   B M                                           |
+|             |           |                                           |
+|             P-M M-M K-M-T                                           |
+|               | | | |                                               |
+|               T-M P-M                                               |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 12  (seed=2449819936)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 0
+  GOAL : 1
+  HEALTH: 0
+  MONSTER: 0
+  TREASURE: 0
+  KEY: 0
+  BOSS: 0
+  PUZZLE: 0
+  REST: 0
+
++---------------------------------------------------------------------+
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|               G G G                                                 |
+|                                                                     |
+|               G G G                                                 |
+|                                                                     |
+|               G G G                                                 |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 13  (seed=2449819937)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 1
+  GOAL : 1
+  HEALTH: 12
+  MONSTER: 20
+  TREASURE: 9
+  KEY: 7
+  BOSS: 5
+  PUZZLE: 4
+  REST: 5
+
++---------------------------------------------------------------------+
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                 M                                                   |
+|                                                                     |
+|             P-M-M-H                                                 |
+|             |     |                                                 |
+|           R-B-H M M                                                 |
+|               |   |                                                 |
+|       M-M   B-T-K P-M                                               |
+|         |       | |                                                 |
+|       H-K     M-B M-P-M                                             |
+|       |         | | |                                               |
+|     M-H-T M     S R T                                               |
+|         |       |                                                   |
+|         M-M-K-P-M-R-T-M T-H                                         |
+|             |         | | |                                         |
+|           M T G-T-H T-B T H                                         |
+|                   | | | | |                                         |
+|                   B-M M-K R                                         |
+|                           |                                         |
+|                   H-H-M M-H                                         |
+|                   |     |                                           |
+|                   M-K-R H                                           |
+|                       | |                                           |
+|                       K H                                           |
+|                       | |                                           |
+|                       M-K                                           |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 14  (seed=2449819938)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 0
+  GOAL : 1
+  HEALTH: 0
+  MONSTER: 0
+  TREASURE: 0
+  KEY: 0
+  BOSS: 0
+  PUZZLE: 0
+  REST: 0
+
++---------------------------------------------------------------------+
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|               G G G                                                 |
+|                                                                     |
+|               G G G                                                 |
+|                                                                     |
+|               G G G                                                 |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 15  (seed=2449819939)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 0
+  GOAL : 1
+  HEALTH: 0
+  MONSTER: 0
+  TREASURE: 0
+  KEY: 0
+  BOSS: 0
+  PUZZLE: 0
+  REST: 0
+
++---------------------------------------------------------------------+
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|               G G G                                                 |
+|                                                                     |
+|               G G G                                                 |
+|                                                                     |
+|               G G G                                                 |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 16  (seed=2449819940)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 1
+  GOAL : 1
+  HEALTH: 7
+  MONSTER: 17
+  TREASURE: 11
+  KEY: 4
+  BOSS: 1
+  PUZZLE: 14
+  REST: 8
+
++---------------------------------------------------------------------+
+|                                                                     |
+|                 P P P K-T                                           |
+|                   |   |                                             |
+|                 H H H R-T                                           |
+|                   |     |                                           |
+|                 M M M M M M                                         |
+|                   |     |                                           |
+|         P-M-H-R H T-P-T-M-T                                         |
+|             |   |       | |                                         |
+|           M-M T R-M P P-K R-R                                       |
+|           |   | |   | |     |                                       |
+|           K-M M P M-T-P-M M M M                                     |
+|             | | | |     |   |                                       |
+|             B P M-R P   T M-P                                       |
+|             | |   |       |                                         |
+|             M T-T-P-P-P H H H                                       |
+|             |   |         |                                         |
+|             M H H H P M-P P-H                                       |
+|             |   |     |   | |                                       |
+|             K-R-S     T-H-R G                                       |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 17  (seed=2449819941)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 1
+  GOAL : 1
+  HEALTH: 12
+  MONSTER: 23
+  TREASURE: 6
+  KEY: 9
+  BOSS: 2
+  PUZZLE: 5
+  REST: 5
+
++---------------------------------------------------------------------+
+|                                                                     |
+|     M-T-B                                                           |
+|     | |                                                             |
+|     R M                                                             |
+|     | |                                                             |
+|   H-M M-H-T                                                         |
+|           |                                                         |
+|         M H                                                         |
+|         | |                                                         |
+|         K-M                                                         |
+|         |                                                           |
+|         M                                                           |
+|         |                                                           |
+|   T   P P P M                                                       |
+|   |     |                                                           |
+| K-R H   M-K-M-T-M-P                                                 |
+| |   |   |         |                                                 |
+| K-K-M-H M-R M M-M H                                                 |
+| |     |   |     | |                                                 |
+| M   T-P-H-H-P-M-S P                                                 |
+|             |     |                                                 |
+|           K-K R-M-R                                                 |
+|               |                                                     |
+|             H H H                                                   |
+|               |                                                     |
+|           M-B-H                                                     |
+|           |                                                         |
+|         K-M H-K                                                     |
+|         |   | |                                                     |
+|         M-M-T M-M                                                   |
+|                 |                                                   |
+|               G-H                                                   |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 18  (seed=2449819942)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 1
+  GOAL : 1
+  HEALTH: 6
+  MONSTER: 14
+  TREASURE: 18
+  KEY: 5
+  BOSS: 7
+  PUZZLE: 9
+  REST: 3
+
++---------------------------------------------------------------------+
+|                                                                     |
+|       M-T M                                                         |
+|       | |                                                           |
+|       B K-M-K-T                                                     |
+|       |       |                                                     |
+|       K   M M M M                                                   |
+|       |       |                                                     |
+|       H   T-T T                                                     |
+|       |   |   |                                                     |
+|       T-B P R M-P                                                   |
+|         | | | |                                                     |
+|         T M-B M-P-M                                                 |
+|         |   | | |                                                   |
+|         P   H B T-M-B                                               |
+|         |   | |                                                     |
+|         M   H B-M-M-T                                               |
+|         |   | |     |                                               |
+|         M-T M-H S   T T T                                           |
+|           | |                                                       |
+|           R H-P-S-P P-T-T                                           |
+|           |   |   | |                                               |
+|           T K-H S M-R T T                                           |
+|           | |                                                       |
+|         T-T P                                                       |
+|         |   |                                                       |
+|         G B-T                                                       |
+|           |                                                         |
+|           P                                                         |
+|           |                                                         |
+|           T-K                                                       |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 19  (seed=2449819943)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 1
+  GOAL : 1
+  HEALTH: 9
+  MONSTER: 28
+  TREASURE: 6
+  KEY: 4
+  BOSS: 2
+  PUZZLE: 7
+  REST: 6
+
++---------------------------------------------------------------------+
+|                                                                     |
+| M-T-H-H-G                                                           |
+| |                                                                   |
+| K-T                                                                 |
+|   |                                                                 |
+| M M M                                                               |
+|   |                                                                 |
+|   M-P-M                                                             |
+|       |                                                             |
+|       M                                                             |
+|       |                                                             |
+|     T T T M-P-H K                                                   |
+|       |   |   | |                                                   |
+|     K K K R M-T-M                                                   |
+|       |   | |                                                       |
+|       B-M-H H M-K                                                   |
+|             | |                                                     |
+|       M-M-M H-M M-M                                                 |
+|         | |   | | |                                                 |
+|       P-B M-T-T S M-M                                               |
+|           | |   | |                                                 |
+|           H P-H-M R-R                                               |
+|                 | |                                                 |
+|           M-R-P M M                                                 |
+|               | | |                                                 |
+|             M R-R P                                                 |
+|                   |                                                 |
+|         M-M-M-P-M-M                                                 |
+|                   |                                                 |
+|             M   H H H                                               |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
++---------------------------------------------------------------------+
+
+Graph 20  (seed=2449819944)
+Params: rooms=64, main=32, branch=0.95, branchlen=16, loops=0
+RoomSize: multi=0.35, minrw=1, maxrw=3, minrh=1, maxrh=3
+
+Legend:
+  S = Start (START)
+  G = Goal  (GOAL)
+  H = Health Room (HEALTH), weight=12
+  M = Monster Room (MONSTER), weight=28
+  T = Treasure Room (TREASURE), weight=14
+  K = Key Room (KEY), weight=8
+  B = Boss Room (BOSS), weight=3
+  P = Puzzle Room (PUZZLE), weight=10
+  R = Rest Room (REST), weight=8
+
+Counts:
+  START: 1
+  GOAL : 1
+  HEALTH: 6
+  MONSTER: 22
+  TREASURE: 11
+  KEY: 9
+  BOSS: 1
+  PUZZLE: 9
+  REST: 4
+
++---------------------------------------------------------------------+
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|               P                                                     |
+|               |                                                     |
+| M-T-R-G       M-S                                                   |
+| |               |                                                   |
+| M M-K-P-H-R-H M M M                                                 |
+| | |         |   |                                                   |
+| M M M-K-R-B K-M-T-T-P                                               |
+| |   |     |   |   |                                                 |
+| H T T T T-P T-M M-K                                                 |
+| |   |     | | |   |                                                 |
+| M-H T-K-M M K M M-P                                                 |
+|   |     | | | |                                                     |
+| T-M-P-M-R K-T H                                                     |
+| |             |                                                     |
+| M K-P K-H-P-M-M                                                     |
+|     |   |                                                           |
+|     T-P-M-T                                                         |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
++---------------------------------------------------------------------+
